@@ -1,3 +1,22 @@
-body {
+@charset "utf-8";
 
+body {
+	background-color: #9C1215;
+}
+
+img {
+	width:600px;
+	border: 40px dashed maroon;
+	border-radius: 25%;
+}
+
+img:hover {
+	border: 35px dashed brown;
+}
+h1 {color: mediumseagreen;
+	text-decoration: overline wavy;
+}
+
+h2 {letter-spacing: 10px;
+	font-style: oblique;
 }
